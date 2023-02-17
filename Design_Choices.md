@@ -18,6 +18,7 @@ I made this document for preparation for our lab session, to organize our conver
 ### Tank Settings  
 
 -Health: instakill or several hits?
+-Follow camerea or global camera
 
 ### Gameplay
 
